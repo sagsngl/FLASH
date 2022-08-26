@@ -6,5 +6,4 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 
 
 FiftyOne by VOXEL was used to create a subset from the COCO dataset containing desired images and labels.
-Link can be found
-(https://voxel51.com/docs/fiftyone/integrations/coco.html#coco) | [here]
+Link can be found [here](https://voxel51.com/docs/fiftyone/integrations/coco.html#coco)
