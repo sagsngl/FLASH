@@ -7,3 +7,7 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 
 FiftyOne by VOXEL was used to create a subset from the COCO dataset containing desired images and labels.
 Link can be found [here](https://voxel51.com/docs/fiftyone/integrations/coco.html#coco)
+
+YOLO Testing files were used to train the weights
+These weights were trained with datat from Roboflow, COCO and some labelled data from the garage.
+It is trained for labels 'Vehicle' and 'Person'
