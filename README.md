@@ -9,3 +9,5 @@ It opens 2 frames, one showing the tracking boxes and the other showing a counte
 
 This is done by tracking the corners of the bounding boxes from when the car is detected and when it disappears from the frame
 
+Command to be used:
+py main_api_v3.py -m best_openvino_2021.4_6shave.blob -c best.json
